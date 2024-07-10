@@ -79,6 +79,7 @@
   cursor: pointer;
   background-color: #dc3545;
   color: #fff;
+  margin: 0 auto;
 }
 
 .modal-button:hover {
